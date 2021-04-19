@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://syfurrahman.github.io/csb-djxyp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://syfurrahman.github.io/csb-djxyp/static/js/main.491f4216.chunk.js",
+    "main.js.map": "https://syfurrahman.github.io/csb-djxyp/static/js/main.491f4216.chunk.js.map",
+    "runtime-main.js": "https://syfurrahman.github.io/csb-djxyp/static/js/runtime-main.d8f10aec.js",
+    "runtime-main.js.map": "https://syfurrahman.github.io/csb-djxyp/static/js/runtime-main.d8f10aec.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://syfurrahman.github.io/csb-djxyp/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://syfurrahman.github.io/csb-djxyp/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://syfurrahman.github.io/csb-djxyp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://syfurrahman.github.io/csb-djxyp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://syfurrahman.github.io/csb-djxyp/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8f10aec.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.491f4216.chunk.js"
+  ]
+}
